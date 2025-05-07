@@ -21,7 +21,7 @@ nav a{
 
 section.home{
     height: 600px;
-    background:url("Bg1.jpeg");
+    background:url("Bg1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -47,7 +47,7 @@ section.home a {
      }
 
 section.about{
-    background: url(BG2.jpeg);
+    background: url(BG2.jpg);
     height: 600px;
     padding-top:100px;
     }
@@ -63,7 +63,7 @@ section.about img{
     width: 150px;
     }
 section.product{
-    background: url("Bg1.jpeg");
+    background: url("Bg1.jpg");
     background-size: cover; 
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -96,7 +96,7 @@ section.product .container .card img{
     border-radius: 20px;
  }
  section.contact{ 
-    background: url(BG3.jpeg); 
+    background: url(BG3.jpg); 
  }
 section.contact .card{
 margin: auto;
