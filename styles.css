@@ -47,7 +47,7 @@ section.home a {
      }
 
 section.about{
-    background: url(BG2.jpg);
+    background: url("Bg1.jpg");
     height: 600px;
     padding-top:100px;
     }
@@ -96,7 +96,7 @@ section.product .container .card img{
     border-radius: 20px;
  }
  section.contact{ 
-    background: url(BG3.jpg); 
+    background: url(BG1.jpg); 
  }
 section.contact .card{
 margin: auto;
